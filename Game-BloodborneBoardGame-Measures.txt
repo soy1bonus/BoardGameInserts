@@ -1,7 +1,7 @@
+Box Size: 31x31x12cm
+Miniature Box Height: 6.5cm 
+
 Scenario Tiles: 14x14cm
 
 Medium Cards (Sleeved): 6.6x9.1cm
 Small Cards (Sleeved): 4.3x6.5cm
-
-Insert thickness 0.24cm
-Desired extra card space: 0.4cm
