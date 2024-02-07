@@ -5,3 +5,5 @@ Scenario Tiles: 14x14cm
 
 Medium Cards (Sleeved): 6.6x9.1cm
 Small Cards (Sleeved): 4.3x6.5cm
+
+Card Types: Basic, Advanced, Common Items, Special Items, Monsters
