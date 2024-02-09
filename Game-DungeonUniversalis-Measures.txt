@@ -1,0 +1,6 @@
+Box Size: 30x40x16.5cm
+Bottom Layer Height: 8cm
+
+Small Cards (Sleeved): 4.7x7cm (33cm depth)
+Standard Cards (Sleeved): 6.6x9.2cm
+Bestiary Cards (Sleeved): 8.2x12.2cm (17cm depth)
