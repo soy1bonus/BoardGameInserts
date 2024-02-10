@@ -7,7 +7,7 @@ Then I've uploaded some inserts that I've been printing successfully with an *En
 
 ## Workflow
 
-Download the the whole thing (click on the *Code* button and then *Download ZIP*) and duplicate one of the inserts. You could do it from scratch, but why would you, as some setup is already done for you.
+Download the the whole thing (click on the *Code* button at the top-right and then *Download ZIP*) and duplicate one of the inserts. You could do it from scratch, but why would you, as some setup is already done for you.
 
 Also, remember that all **distances are in centimetres**.
 
@@ -23,7 +23,7 @@ I just export as-is, when importint the STL into the slicer (I use the default C
 
 ![Insert_Drawer geometry node preview](InsertTemplate-Drawer.png)
 
-- **Box Size:** is the cube outer size (width, depth, heigh)
+- **Box Size:** is the cube outer size (width, depth, height)
 - **Box Thickness:** self explanatory, remember the box size is the outer size, so you would *carve* the thickness inside it.
 - **Box Columns:** If you want to replicate the same setup side by side (like in the preview)
 
