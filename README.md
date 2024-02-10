@@ -41,7 +41,7 @@ I just export as-is, when importint the STL into the slicer (I use the default C
 
 ### Insert_Divider
 
-![Insert_Divider geometry node preview](InsertTemplate-DDivider.png)
+![Insert_Divider geometry node preview](InsertTemplate-Divider.png)
 
 - **Size:** Width, Height and Depth (thickness) of the divider.
 - **Bevel:** Amount of bevel in the corners.
@@ -53,5 +53,5 @@ I just export as-is, when importint the STL into the slicer (I use the default C
 - **Support Count:** Amount of supports below the Tab. They can be zero.
 
 # Examples:
-![Bloodborne The Board Game Insert in Blender](Game-BloodborneBoardGame-Preview.png)
-![Bloodborne The Board Game Insert Final Print](Game-BloodborneBoardGame-Final.jpg)
+![Bloodborne The Board Game Insert in Blender](Games/BloodborneBoardGame-Preview.png)
+![Bloodborne The Board Game Insert Final Print](Games/BloodborneBoardGame-Final.jpg)
