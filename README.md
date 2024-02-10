@@ -7,7 +7,7 @@ Then I've uploaded some inserts that I've been printing successfully with an *En
 
 ## Workflow
 
-Download the the whole thing and duplicate one of the inserts. You could do it from scratch, but why would you, as some setup is already done for you.
+Download the the whole thing (click on the *Code* button and then *Download ZIP*) and duplicate one of the inserts. You could do it from scratch, but why would you, as some setup is already done for you.
 
 Also, remember that all **distances are in centimetres**.
 
