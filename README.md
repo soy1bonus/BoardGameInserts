@@ -57,5 +57,5 @@ I just export as-is, when importint the STL into the slicer (I use the default C
 ![Bloodborne The Board Game Insert Final Print](Games/BloodborneBoardGame-Final.jpg)
 
 # External Links
-[Creality Cloud Profile](https://www.crealitycloud.com/user/3915373187)
-[Printables Profile](https://www.printables.com/es/@SoyUnBonus_1782397)
+- [Creality Cloud Profile](https://www.crealitycloud.com/user/3915373187)
+- [Printables Profile](https://www.printables.com/es/@SoyUnBonus_1782397)
