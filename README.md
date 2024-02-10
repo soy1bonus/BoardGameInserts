@@ -1,5 +1,5 @@
 # Board Game Inserts
-Blender templates to build printable boardgame inserts.
+[https://www.blender.org/](Blender) templates to build printable boardgame inserts.
 
 The magic happens in **InsertsTemplate.blend** in which I've created a few *Geometry Nodes* that allow me to procedurally create the insert.
 
@@ -55,3 +55,7 @@ I just export as-is, when importint the STL into the slicer (I use the default C
 # Examples:
 ![Bloodborne The Board Game Insert in Blender](Games/BloodborneBoardGame-Preview.png)
 ![Bloodborne The Board Game Insert Final Print](Games/BloodborneBoardGame-Final.jpg)
+
+# External Links
+[Creality Cloud Profile](https://www.crealitycloud.com/user/3915373187)
+[Printables Profile](https://www.printables.com/es/@SoyUnBonus_1782397)
