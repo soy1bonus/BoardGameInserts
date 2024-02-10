@@ -1,5 +1,5 @@
 # Board Game Inserts
-[https://www.blender.org/](Blender) templates to build printable boardgame inserts.
+[Blender](https://www.blender.org/) templates to build printable boardgame inserts.
 
 The magic happens in **InsertsTemplate.blend** in which I've created a few *Geometry Nodes* that allow me to procedurally create the insert.
 
