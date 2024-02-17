@@ -8,12 +8,12 @@ Bestiary Cards (Sleeved): 8.2x12.2cm (17cm depth)
 Small Standees: 2x3cm (depth 15cm)
 Standard Standees: 2.6x4.6cm
 Small+Standard depth: 107cm
-Big Standees: 4.1x6.6cm
+Big Standees: 4.1x6.6cm (depth 10cm)
 Huge Standees: 6x8.4cm
 
 Tiles 1x1: 2.5x2.5cm (10cm depth)
 Tiles 2x1: 5x2.5cm (14cm depth)
-Tiles 2x2: 5x5cm
+Tiles 2x2: 5x5cm (3.5cm depth)
 Tiles 6x2: 15x5cm (7cm depth)
 Tiles 6x6: 15x15cm (6cm depth)
 Tiles 10x8: 25x20cm
