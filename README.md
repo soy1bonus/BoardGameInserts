@@ -55,6 +55,9 @@ I just export as-is, when importint the STL into the slicer (I use the default C
 # Examples:
 ![Bloodborne The Board Game Insert in Blender](Games/BloodborneBoardGame-Preview.png)
 ![Bloodborne The Board Game Insert Final Print](Games/BloodborneBoardGame-Final.jpg)
+![After the Virus + Expansion Insert in Blender](Games/AfterTheVirus-Preview.png)
+![After the Virus + Expansion Insert Final Print](Games/AfterTheVirus-Final.jpg)
+![After the Virus + Expansion Player Deck with Divider](Games/AfterTheVirus-FinalDeck.jpg)
 
 # External Links
 - [Creality Cloud Profile](https://www.crealitycloud.com/user/3915373187)
