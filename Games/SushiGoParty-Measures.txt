@@ -1,4 +1,5 @@
-Box Size: 15.6x21.6x7.3cm
+Box Size: 15.6x21.6x7.3cm (5.8m height desired)
 
 Cards (Sleeved): 6x9.1cm
-Stack of cards (Sleeved): 12cm
+Item Tile: 5.6x6.8cm
+Stack of cards (Sleeved): 12cm (18cm desired)
