@@ -1,5 +1,13 @@
-Box Size: 15.8x29x4.5cm
+Box Size: 29x29x6.7cm
 
 Cards (Sleeved): 6.4x8.9cm
 
-Card types: starting items, location items, crossroad cards, secret objective, character, crisis, exiled, objective
+Card types: 
+- Starting items
+- Location items
+- Crossroad cards
+- Secret objective
+- Characters
+- Crisis
+- Exiled
+- Objective
