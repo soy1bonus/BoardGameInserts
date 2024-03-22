@@ -4,10 +4,19 @@ Cards (Sleeved): 6.4x8.9cm
 
 Card types: 
 - Starting items
-- Location items
-- Crossroad cards
+- Location items (6 stacks x 1cm)
+- Crossroad cards (3'5cm)
 - Secret objective
 - Characters
 - Crisis
 - Exiled
 - Objective
+
+Token types
+- Zombie
+- Survivor
+- Noise
+- Food
+- Hunger
+- Barricade
+- Damage
