@@ -53,8 +53,8 @@ I just export as-is, when importint the STL into the slicer (I use the default C
 - **Support Count:** Amount of supports below the Tab. They can be zero.
 
 # Examples:
-![Bloodborne The Board Game Insert in Blender](Games/BloodborneBoardGame-Preview.png)
-![Bloodborne The Board Game Insert Final Print](Games/BloodborneBoardGame-Final.jpg)
+![Bloodborne The Board Game Insert in Blender](Games/BloodborneBoardGame/BloodborneBoardGame-Preview.png)
+![Bloodborne The Board Game Insert Final Print](Games/BloodborneBoardGame/BloodborneBoardGame-Final.jpg)
 
 # External Links
 - [Creality Cloud Profile](https://www.crealitycloud.com/user/3915373187)
