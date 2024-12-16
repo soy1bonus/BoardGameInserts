@@ -1,9 +1,5 @@
-Box Size: 29x29x10cm
+Box Size: 15.2x28.6x7cm
 
-Cards (Sleeved): 8.8x5.8cm
+Standard Cards (Sleeved): 9.1x6cm (4 stacks of 1.6cm)
 
-Board size: 26.4x26.4x3.7cm
-
-Card Types: Gold, Silver, Bronze, Trap, Characters, Player Aids, Secret Plans, Scenario Cards
-
-Climate Tiles: 7.8x6x1.2cm
+Big Cards (Sleeved): 12.3x7.2cm (stack of 3.7cm)
